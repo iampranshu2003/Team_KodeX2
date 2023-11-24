@@ -1,0 +1,15 @@
+{
+  "name": "socket-io-mongodb-server",
+  "version": "1.0.0",
+  "description": "Socket.IO and MongoDB server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "mongoose": "^6.0.11",
+    "socket.io": "^2.0.0"
+  }
+}
